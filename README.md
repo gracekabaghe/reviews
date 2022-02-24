@@ -9,10 +9,6 @@
 - CSS3
 - HTML5
 
-## Live Demo (if available)
-
-[Live Demo Link](https://sharp-allen-f0b666.netlify.app/)
-
 
 ## To Get a Copy
 - clone repo 
